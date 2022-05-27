@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Magento 2 Easy Template Path Hints](https://i.imgur.com/d8QEHRb.png)
-# Magento 2 Easy Template Path Hints
+# Mageplaza Hello World :-)
 
 </div>
 
